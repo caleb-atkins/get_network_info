@@ -65,7 +65,7 @@ elif(currentOS == 'Linux'):
             print("UNABLE TO RETRIEVE NETWORK DATA")
 
 
-# Invalid OS or unable to identify
+# Unable to identify OS
 else:
     print("UNABLE TO IDENTIFY RUNNING OPERATING SYSTEM...")
 
